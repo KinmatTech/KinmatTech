@@ -1,5 +1,7 @@
-### My name isAni Mathew Okechukwu is an academic support staff with I.C.T Innovation Centre, University of Nigeria Nsukka, Enugu State. 
+### My name is Ani Mathew Okechukwu is an academic support staff with I.C.T Innovation Centre, University of Nigeria Nsukka, Enugu State. 
     Software/Web Developer 👋
+### Skills
+    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <!--
 **KinmatTech/KinmatTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
