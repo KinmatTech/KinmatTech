@@ -1,7 +1,6 @@
 ### Ani Mathew Okechukwu is an academic support staff with Information & Communication Technology (ICT) Institute, University of Nigeria Nsukka (UNN), Enugu State, Nigeria.👋
 ### SKills
-          ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-<!--
+          
 **KinmatTech/KinmatTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
